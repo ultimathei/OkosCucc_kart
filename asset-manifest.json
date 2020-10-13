@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OkosCucc_kart/static/css/main.b01e181a.chunk.css",
+    "main.js": "/OkosCucc_kart/static/js/main.c3fc5ce6.chunk.js",
+    "main.js.map": "/OkosCucc_kart/static/js/main.c3fc5ce6.chunk.js.map",
+    "runtime-main.js": "/OkosCucc_kart/static/js/runtime-main.71f2553b.js",
+    "runtime-main.js.map": "/OkosCucc_kart/static/js/runtime-main.71f2553b.js.map",
+    "static/js/2.500dd1b8.chunk.js": "/OkosCucc_kart/static/js/2.500dd1b8.chunk.js",
+    "static/js/2.500dd1b8.chunk.js.map": "/OkosCucc_kart/static/js/2.500dd1b8.chunk.js.map",
+    "index.html": "/OkosCucc_kart/index.html",
+    "precache-manifest.af7ea2efeacd60c3e8827605b48c4f66.js": "/OkosCucc_kart/precache-manifest.af7ea2efeacd60c3e8827605b48c4f66.js",
+    "service-worker.js": "/OkosCucc_kart/service-worker.js",
+    "static/css/main.b01e181a.chunk.css.map": "/OkosCucc_kart/static/css/main.b01e181a.chunk.css.map",
+    "static/js/2.500dd1b8.chunk.js.LICENSE.txt": "/OkosCucc_kart/static/js/2.500dd1b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71f2553b.js",
+    "static/js/2.500dd1b8.chunk.js",
+    "static/css/main.b01e181a.chunk.css",
+    "static/js/main.c3fc5ce6.chunk.js"
+  ]
+}
