@@ -1,6 +1,5 @@
 import React from 'react';
 import './reset.css';
-// import TimeLine from './Components/TimeLine';
 import Kart from './Components/Kart';
 
 const style = {
@@ -17,7 +16,6 @@ function App() {
 
   return (
     <div style={style}>
-      {/* <TimeLine/> */}
       <Kart />
     </div>
   );
